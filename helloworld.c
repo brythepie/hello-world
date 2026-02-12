@@ -8,6 +8,6 @@ int main () {
   
 	printf("Hello %d!\n", UserName);
 
-	printf("System says, \\"Hello World!\\"\\n");
+	printf("System says, \\"Hello world!\\"\\n");
   	return 0;
 }
